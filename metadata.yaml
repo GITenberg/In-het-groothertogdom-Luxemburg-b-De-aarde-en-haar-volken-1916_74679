@@ -1,0 +1,26 @@
+_repo: In-het-groothertogdom-Luxemburg-b-De-aarde-en-haar-volken-1916_74679
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Sixemonts, Pierre
+    gutenberg_agent_id: '57598'
+    url: http://www.gutenberg.org/2009/agents/57598
+description: ''
+gutenberg_issued: '2024-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74679'
+language: nl
+pgterms:marc905: 20060205133926various
+pgterms:marc906: '1918'
+pgterms:marc907: NL
+production_note: Produced by Jeroen Hellingman and the Online Distributed Proofreading
+  Team at http://www.pgdp.net/ for Project Gutenberg.
+publication_note: '  $aHaarlem :$bH. D. Tjeenk Willink & Zn., $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'In het groothertogdom Luxemburg : $b De aarde en haar volken, 1916'
+url: http://www.gutenberg.org/ebooks/74679
